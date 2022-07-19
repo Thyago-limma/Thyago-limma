@@ -29,3 +29,8 @@ class Skills extends Desenvolvedor {
   <a href="https://www.instagram.com/thiagol_sylva/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p> 
+
+
+[![card](https://github-readme-stats.vercel.app/api?username=Thyago-limma&theme=default&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Thyago-limma](https://github-readme-stats.vercel.app/api/top-langs/?username=Thyago-limma&hide=html&layout=compact=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
